@@ -1,0 +1,10 @@
+WEEK 1 SOLUTIONS TO ASSIGNMENT
+Student name: Olorunfemi Ogunbanwo
+
+# Asking the user for their details
+name = input("What is your name? ")
+age = input("How old are you? ")
+location = input("Where are you located? ")
+
+# Printing a personalized message
+print(f"Hello, {name}! You're {age} years old and live in {location}. It's nice to meet you!")
